@@ -1,6 +1,6 @@
 # WillPollenKillMeToday.com
 
-A minimalist web app that tells you if pollen levels are safe based on your location — with a touch of drama. Enter your city and find out if you can breathe easy, need to grab your Zyrtec, or should just stay inside.
+A minimalist web app that tells you if pollen levels are safe based on your location with a touch of drama. Enter your city and find out if you can breathe easy, need to grab your Zyrtec, or should just stay inside.
 
 ## What It Does
 
@@ -73,8 +73,8 @@ project-root/
 
 ## Why?
 
-Because sometimes you just want to know if it's safe to breathe — with no fluff.
+Because sometimes you just want to know if it's safe to breathe with no fluff.
 
 ## License
 
-MIT — do what you want, just don’t sue me if you go outside and sneeze.
+MIT - do what you want, just don’t sue me if you go outside and sneeze.
