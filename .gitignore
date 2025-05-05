@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+.pnpm/
+.cache/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# dotenv environment files
+.env
+.env.local
+.env.*.local
+
+# Vite and tooling caches
+.vite/
+vite.config.ts
+
+# IDE/editor configs
+*.sw?
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Mac system files
+.AppleDouble
+.LSOverride
+.DS_STORE
+
+# Dependency lockfiles (optional, choose one)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
